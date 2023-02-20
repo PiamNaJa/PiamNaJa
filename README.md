@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Nachanon Nuanphet</h1>
+<h1 align="center">Hi 👋, I'm Nachanon Nuanphet</h1>
 I'm 3rd year applied computer science student at King Mongkut's University of Technology Thonburi
 
 # 💻 Tech Stack:
@@ -7,5 +7,7 @@ I'm 3rd year applied computer science student at King Mongkut's University of Te
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)<br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br/>  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PiamNaJa&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiamNaJa&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=PiamNaJa&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiamNaJa&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PiamNaJa&theme=prussian&hide_border=false)
