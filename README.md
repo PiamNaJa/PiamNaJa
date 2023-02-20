@@ -9,6 +9,6 @@ I'm 3rd year applied computer science student at King Mongkut's University of Te
 # 📊 GitHub Stats:
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiamNaJa&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiamNaJa&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiamNaJa&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align = "center"/></br>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PiamNaJa&theme=prussian&hide_border=false" align = "center"/>
 </p>
