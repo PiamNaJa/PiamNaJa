@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nachanon Nuanphet</h1>
-### I'm 3rd year applied computer science student at King Mongkut's University of Technology Thonburi
+##I'm 3rd year applied computer science student at King Mongkut's University of Technology Thonburi
 <li>I'm interested in backend</li>
 <li>I'm hope to become software developer in the future 🙂</li>
 
